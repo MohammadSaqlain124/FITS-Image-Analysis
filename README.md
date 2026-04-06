@@ -41,7 +41,9 @@ The pipeline generates:
 
 - Log-scaled nebula image  
 - Pixel intensity histogram  
-- Bright region detection overlay  
+- Bright region detection overlay
+- <img width="1919" height="1137" alt="Sample output" src="https://github.com/user-attachments/assets/5decacd1-8bba-4a27-85b6-59bd47def1b2" />
+
 
 ---
 
